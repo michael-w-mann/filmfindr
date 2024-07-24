@@ -1,6 +1,6 @@
 <img src="https://github.com/michael-w-mann/filmfindr/blob/dev/client/components/statics/film-findr-high-resolution-logo-transparent.png?raw=true" alt="Film Findr Logo" width="500">
 
-Can't decide on a movie to watch? Struggling to find something appropriate for a date or movie night with the family? Tired of looking through long Google lists of movies you've already seen? Film Findr is here to help!
+Can't decide on a movie to watch? Struggling to find something appropriate for a date or movie night with family? Tired of looking through long Google lists of movies you've already seen? Film Findr is here to help!
 
 ### Introducing Film Findr
 
